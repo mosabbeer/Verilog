@@ -1,0 +1,27 @@
+E:/DSDLAB/BCDTOXS3.v {1 {vlog -work work -stats=none E:/DSDLAB/BCDTOXS3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bcdtoxs3
+-- Compiling module bcdtoxs3tester
+
+Top level modules:
+	bcdtoxs3tester
+
+} {} {}} E:/DSDLAB/AdderSubracror.v {1 {vlog -work work -stats=none E:/DSDLAB/AdderSubracror.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Half12
+-- Compiling module FullAdders
+-- Compiling module ADDSUB
+
+Top level modules:
+	ADDSUB
+
+} {} {}} E:/DSDLAB/Counter.v {1 {vlog -work work -stats=none E:/DSDLAB/Counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module jk
+-- Compiling module counter
+-- Compiling module ripsim
+
+Top level modules:
+	ripsim
+
+} {} {}}

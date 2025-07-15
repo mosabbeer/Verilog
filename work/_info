@@ -1,0 +1,388 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/New folder
+vAdderSub
+Z0 !s110 1728403437
+!i10b 1
+!s100 Z2aVIQ10;UXQ<SDh>NbJJ3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`P:z3QiGDKUIBaX7IPmk40
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dE:/DSDLAB
+Z4 w1728365864
+Z5 8E:/DSDLAB/AdderSubracror.v
+Z6 FE:/DSDLAB/AdderSubracror.v
+!i122 44
+L0 15 14
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1728403437.000000
+Z9 !s107 E:/DSDLAB/AdderSubracror.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|E:/DSDLAB/AdderSubracror.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+n@adder@sub
+vAdderSubtractor
+!s110 1728363886
+!i10b 1
+!s100 >0Q?@]KnBCNd4zjoc44fk0
+R1
+IjJPKiG5Vlgj0>QVghh[o<1
+R2
+R3
+Z13 w1728363884
+R5
+R6
+!i122 5
+Z14 L0 1 15
+R7
+r1
+!s85 0
+31
+Z15 !s108 1728363886.000000
+R9
+R10
+!i113 1
+R11
+R12
+n@adder@subtractor
+vADDSUB
+Z16 !s110 1728406053
+!i10b 1
+!s100 L6BRV1T1ofA8:1^mU?l0e3
+R1
+I?ID`W=<MNOAQAX]gPaMFO2
+R2
+R3
+Z17 w1728405798
+R5
+R6
+!i122 56
+L0 14 16
+R7
+r1
+!s85 0
+31
+Z18 !s108 1728406052.000000
+R9
+R10
+!i113 1
+R11
+R12
+n@a@d@d@s@u@b
+vAddSubTest
+R0
+!i10b 1
+!s100 G3Dc00d30k6R^6<MEHX4:2
+R1
+IHb7nLQE>Z>`G69g9YB`J02
+R2
+R3
+R4
+R5
+R6
+!i122 44
+L0 29 13
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@add@sub@test
+vbcdtoxs3
+Z19 !s110 1728357857
+!i10b 1
+!s100 :X2XQoD98fQ18n`k[=^RY0
+R1
+ILCQWC]PYW]4:z5RVDmMQW0
+R2
+R3
+Z20 w1728357851
+Z21 8E:/DSDLAB/BCDTOXS3.v
+Z22 FE:/DSDLAB/BCDTOXS3.v
+!i122 1
+R14
+R7
+r1
+!s85 0
+31
+Z23 !s108 1728357857.000000
+Z24 !s107 E:/DSDLAB/BCDTOXS3.v|
+Z25 !s90 -reportprogress|300|-work|work|-stats=none|E:/DSDLAB/BCDTOXS3.v|
+!i113 1
+R11
+R12
+vbcdtoxs3tester
+R19
+!i10b 1
+!s100 4:Jh:io=z@b<g2`5ejA[91
+R1
+I:0=Q3z]k2Vk3KB2iNW4D^1
+R2
+R3
+R20
+R21
+R22
+!i122 1
+L0 16 12
+R7
+r1
+!s85 0
+31
+R23
+R24
+R25
+!i113 1
+R11
+R12
+vcounter
+Z26 !s110 1728393600
+!i10b 1
+!s100 E]P0_;_8jPYYOV:;YB6ko2
+R1
+IE1h013D^cCUYYbeFW^Xo:3
+R2
+R3
+Z27 w1728393597
+Z28 8E:/DSDLAB/Counter.v
+Z29 FE:/DSDLAB/Counter.v
+!i122 43
+L0 14 12
+R7
+r1
+!s85 0
+31
+Z30 !s108 1728393600.000000
+Z31 !s107 E:/DSDLAB/Counter.v|
+Z32 !s90 -reportprogress|300|-work|work|-stats=none|E:/DSDLAB/Counter.v|
+!i113 1
+R11
+R12
+vFullAdder
+!s110 1728404784
+!i10b 1
+!s100 ;dV`eh6J_HPQaNW5D07V52
+R1
+ICzXCF?4X^Z6TFV0XJ7n8Q2
+R2
+R3
+w1728404780
+R5
+R6
+!i122 52
+Z33 L0 7 7
+R7
+r1
+!s85 0
+31
+!s108 1728404784.000000
+R9
+R10
+!i113 1
+R11
+R12
+n@full@adder
+vfullAdder
+!s110 1728364362
+!i10b 1
+!s100 TcO14FjB^5Fn@RAgOlQE92
+R1
+Ib]JGd]EdCjW56add=I@5D1
+R2
+R3
+w1728364349
+R5
+R6
+!i122 7
+L0 8 7
+R7
+r1
+!s85 0
+31
+!s108 1728364362.000000
+R9
+R10
+!i113 1
+R11
+R12
+nfull@adder
+vfulladder
+!s110 1728363887
+!i10b 1
+!s100 EDcoQLN`I:dN267jG]oJO3
+R1
+IQKz8z4ERZeMI7>^GbCVj:1
+R2
+R3
+R13
+R5
+R6
+!i122 5
+L0 16 7
+R7
+r1
+!s85 0
+31
+R15
+R9
+R10
+!i113 1
+R11
+R12
+vFullAdders
+R16
+!i10b 1
+!s100 X4?`4EBzTK=dSBzGT=nWR0
+R1
+II<dPz@;47W8hV_A@[lb100
+R2
+R3
+R17
+R5
+R6
+!i122 56
+R33
+R7
+r1
+!s85 0
+31
+R18
+R9
+R10
+!i113 1
+R11
+R12
+n@full@adders
+vHalf
+!s110 1728405103
+!i10b 1
+!s100 RYKfX]5EHRP=U8=001<Ao2
+R1
+I[hjzPzRXOzc;Cm2`GXZSd2
+R2
+R3
+w1728405099
+R5
+R6
+!i122 53
+Z34 L0 1 6
+R7
+r1
+!s85 0
+31
+!s108 1728405102.000000
+R9
+R10
+!i113 1
+R11
+R12
+n@half
+vHalf12
+R16
+!i10b 1
+!s100 dE6?DJn[JHF<Te0;L2Sfi2
+R1
+I01]DY<^mzj]mVdH2845_J0
+R2
+R3
+R17
+R5
+R6
+!i122 56
+R34
+R7
+r1
+!s85 0
+31
+R18
+R9
+R10
+!i113 1
+R11
+R12
+n@half12
+vhalfadder
+R0
+!i10b 1
+!s100 DK6bPQHBI7?H5nj^he_fC0
+R1
+IzUSbiG`<bf0lRViT`co:01
+R2
+R3
+R4
+R5
+R6
+!i122 44
+R34
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vjk
+R26
+!i10b 1
+!s100 6fo^>BKlT;2bO15=9iYgz0
+R1
+I6l<^;_X[ZXdS4l;3hF?AQ1
+R2
+R3
+R27
+R28
+R29
+!i122 43
+L0 1 13
+R7
+r1
+!s85 0
+31
+R30
+R31
+R32
+!i113 1
+R11
+R12
+vripsim
+R26
+!i10b 1
+!s100 C[S^5mF5I]J<NFldPIWzi3
+R1
+IEj@:o5>5>`hjeaNgS`n<41
+R2
+R3
+R27
+R28
+R29
+!i122 43
+L0 26 22
+R7
+r1
+!s85 0
+31
+R30
+R31
+R32
+!i113 1
+R11
+R12

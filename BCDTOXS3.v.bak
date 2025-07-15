@@ -1,0 +1,15 @@
+module bcdtoxs3(w,x,y,z,a,b,c,d);
+  input a,b,c,d;
+  output w,x,y,z;
+  and(p,b,d);
+  and(q,b,c);
+  or(w,a,p,q);
+  not(bbar,b);
+  not(cbar,c);
+  not(z,d);
+  and(r,bbar,d);
+  and(s,c,bbar);
+  and(t,b,cbar,z);
+  or(x,r,s,t);
+  xnor(y,c,d);
+endmodule

@@ -1,0 +1,139 @@
+# Compile of AdderSubracror.v was successful.
+# Compile of AdderSubracror.v was successful.
+# Compile of AdderSubracror.v was successful.
+# Compile of AdderSubracror.v failed with 2 errors.
+# Compile of AdderSubracror.v failed with 2 errors.
+# Compile of AdderSubracror.v failed with 1 errors.
+# Compile of AdderSubracror.v was successful.
+# Compile of AdderSubracror.v was successful.
+vsim -gui work.ADDSUB
+# vsim -gui work.ADDSUB 
+# Start time: 22:22:26 on Oct 08,2024
+# Loading work.ADDSUB
+# Loading work.FullAdder
+# Loading work.Half
+add wave -position insertpoint  \
+sim:/ADDSUB/A1 \
+sim:/ADDSUB/A3 \
+sim:/ADDSUB/C_in \
+sim:/ADDSUB/Su \
+sim:/ADDSUB/Cout
+force -freeze sim:/ADDSUB/A1 1010 0
+force -freeze sim:/ADDSUB/A3 1101 0
+force -freeze sim:/ADDSUB/C_in 0 0
+run
+# WARNING: No extended dataflow license exists
+quit -sim
+# End time: 22:24:30 on Oct 08,2024, Elapsed time: 0:02:04
+# Errors: 0, Warnings: 9
+# Compile of AdderSubracror.v was successful.
+vsim -gui work.ADDSUB
+# vsim -gui work.ADDSUB 
+# Start time: 22:26:36 on Oct 08,2024
+# Loading work.ADDSUB
+# Loading work.FullAdder
+# Loading work.Half
+add wave -position insertpoint  \
+sim:/ADDSUB/A1 \
+sim:/ADDSUB/A3 \
+sim:/ADDSUB/C_in \
+sim:/ADDSUB/Su \
+sim:/ADDSUB/Cout
+force -freeze sim:/ADDSUB/A1 1010 0
+force -freeze sim:/ADDSUB/A3 1101 0
+force -freeze sim:/ADDSUB/C_in 0 0
+run
+quit -sim
+# End time: 22:28:02 on Oct 08,2024, Elapsed time: 0:01:26
+# Errors: 0, Warnings: 2
+vsim -gui work.ADDSUB
+# vsim -gui work.ADDSUB 
+# Start time: 22:28:31 on Oct 08,2024
+# Loading work.ADDSUB
+# Loading work.FullAdder
+# Loading work.Half
+quit -sim
+# End time: 22:28:57 on Oct 08,2024, Elapsed time: 0:00:26
+# Errors: 0, Warnings: 1
+# Compile of AdderSubracror.v was successful.
+vsim -gui work.ADDSUB
+# vsim -gui work.ADDSUB 
+# Start time: 22:31:56 on Oct 08,2024
+# Loading work.ADDSUB
+# Loading work.FullAdders
+# Loading work.Half
+add wave -position insertpoint  \
+sim:/ADDSUB/A1 \
+sim:/ADDSUB/A3 \
+sim:/ADDSUB/C_in \
+sim:/ADDSUB/Su \
+sim:/ADDSUB/Cout
+force -freeze sim:/ADDSUB/A1 1100 0
+force -freeze sim:/ADDSUB/A3 1100 0
+force -freeze sim:/ADDSUB/C_in 0 0
+run
+quit -sim
+# End time: 22:33:14 on Oct 08,2024, Elapsed time: 0:01:18
+# Errors: 0, Warnings: 2
+# Compile of AdderSubracror.v was successful.
+vsim -gui work.ADDSUB
+# vsim -gui work.ADDSUB 
+# Start time: 22:39:28 on Oct 08,2024
+# Loading work.ADDSUB
+# Loading work.FullAdders
+# Loading work.Half12
+add wave -position insertpoint  \
+sim:/ADDSUB/A1 \
+sim:/ADDSUB/A3 \
+sim:/ADDSUB/C_in \
+sim:/ADDSUB/Su \
+sim:/ADDSUB/Cout
+force -freeze sim:/ADDSUB/A1 1010 0
+force -freeze sim:/ADDSUB/A3 1010 0
+force -freeze sim:/ADDSUB/C_in 0 0
+run
+quit -sim
+# End time: 22:40:32 on Oct 08,2024, Elapsed time: 0:01:04
+# Errors: 0, Warnings: 2
+# Compile of AdderSubracror.v was successful.
+vsim -gui work.ADDSUB
+# vsim -gui work.ADDSUB 
+# Start time: 22:43:40 on Oct 08,2024
+# Loading work.ADDSUB
+# Loading work.FullAdders
+# Loading work.Half12
+add wave -position insertpoint  \
+sim:/ADDSUB/A1 \
+sim:/ADDSUB/A3 \
+sim:/ADDSUB/C_in \
+sim:/ADDSUB/Su \
+sim:/ADDSUB/Cout
+force -freeze sim:/ADDSUB/A1 1010 0
+force -freeze sim:/ADDSUB/A3 1010 0
+force -freeze sim:/ADDSUB/C_in 0 0
+run
+quit -sim
+# End time: 22:44:59 on Oct 08,2024, Elapsed time: 0:01:19
+# Errors: 0, Warnings: 2
+# Load canceled
+# Compile of AdderSubracror.v was successful.
+vsim -gui work.ADDSUB
+# vsim -gui work.ADDSUB 
+# Start time: 22:47:43 on Oct 08,2024
+# Loading work.ADDSUB
+# Loading work.FullAdders
+# Loading work.Half12
+add wave -position insertpoint  \
+sim:/ADDSUB/A1 \
+sim:/ADDSUB/A3 \
+sim:/ADDSUB/C_in \
+sim:/ADDSUB/Su \
+sim:/ADDSUB/Cout
+force -freeze sim:/ADDSUB/A1 1010 0
+force -freeze sim:/ADDSUB/A3 1010 0
+force -freeze sim:/ADDSUB/C_in 0 0
+run
+quit -sim
+# End time: 22:48:48 on Oct 08,2024, Elapsed time: 0:01:05
+# Errors: 0, Warnings: 2
+# Quit canceled

@@ -1,0 +1,29 @@
+module Half12(s,c,a,b);
+ input a,b;
+ output s,c;
+ xor(s,a,b);
+ and(c,a,b);
+endmodule
+module FullAdders(Sum,Carry,A,B,Cin);
+  input A,B,Cin;
+  output Sum,Carry;
+  Half12 f1(S1,c1,A,B);
+  Half12 f2(Sum,c2,S1,Cin);
+  or(Carry,c1,c2);                    
+endmodule
+module ADDSUB(Su,Cout,A1,A3,C_in);
+ input [3:0] A1,A3;
+ input C_in;
+  output [3:0] Su;
+  output Cout;
+wire [3:0]A2;
+ xor(A2[0],A3[0],C_in);
+ xor(A2[1],A3[1],C_in);
+ xor(A2[2],A3[2],C_in);
+ xor(A2[3],A3[3],C_in);
+ 
+ FullAdders full1(Su[0],C0,A1[0],A2[0],Cin);
+ FullAdders full2(Su[1],C1,A1[1],A2[1],C0);
+ FullAdders full3(Su[2],C2,A1[2],A2[2],C1);
+ FullAdders full4(Su[3],Cout,A1[3],A2[3],C2);
+endmodule
